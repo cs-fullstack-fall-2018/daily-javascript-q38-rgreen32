@@ -30,3 +30,4 @@ Choose the correct answer
 4) Array [ "A", "N", "R", "T", "C", "O", "E" ]
 
 ENTER ANSWER HERE!!!
+2
